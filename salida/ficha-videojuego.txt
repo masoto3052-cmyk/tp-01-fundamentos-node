@@ -1,0 +1,12 @@
+
+FICHA DE VIDEOJUEGO
+===================
+Estudiante: mario
+Título: Tomb Raider
+Estudio: Crystal Dynamics
+Año: 2025
+Plataformas: PS5, Xbox Series X
+¿Es multijugador?: Sí
+version Node:v24.19.0;
+plataforma: win32
+
